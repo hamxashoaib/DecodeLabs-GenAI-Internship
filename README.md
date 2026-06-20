@@ -1,5 +1,5 @@
 # 🤖 Generative AI 
-Industrial Training Mission Kit/br
+Industrial Training Mission Kit
 **DecodeLabs | Batch 2026**
 
 This repository contains my completed project submissions for the **Generative AI Industrial Training** program by DecodeLabs. Four out of five tasks have been implemented, covering prompt engineering, document intelligence (RAG), multimodal pipelines, and AI safety auditing.
@@ -103,9 +103,9 @@ python task4_multimodal_content_engine/pipeline.py
 
 ## 👤 Author
 
-**Hamza Shoaib**/
- Artificial Intelligence/n
- The Islamia University of Bahawalpur (IUB)/n
+**Hamza Shoaib** | 
+ Artificial Intelligence | 
+ The Islamia University of Bahawalpur (IUB) | 
 Batch (May 5 - Jun 5) | DecodeLabs Generative AI Internship
 
 ---
