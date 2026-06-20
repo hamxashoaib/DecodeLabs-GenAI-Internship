@@ -1,5 +1,5 @@
 # 🤖 Generative AI 
-Industrial Training Mission Kit
+Industrial Training Mission Kit/
 **DecodeLabs | Batch 2026**
 
 This repository contains my completed project submissions for the **Generative AI Industrial Training** program by DecodeLabs. Four out of five tasks have been implemented, covering prompt engineering, document intelligence (RAG), multimodal pipelines, and AI safety auditing.
@@ -72,7 +72,8 @@ DecodeLabs-GenAI-Internship/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/hamxashoaib/DecodeLabs-GenAI-Internship.git
-cd decodelabs-genai-internship
+cd DecodeLabs-GenAI-Internship
+
 ```
 
 ### 2. Install dependencies
@@ -92,7 +93,7 @@ cp .env.example .env
 streamlit run task3_knowledge_analyst/dashboard.py
 
 # Task 4 – Multimodal Pipeline
-python task4_multimodal_content_engine/pipeline.py --input your_audio.mp3
+python task4_multimodal_content_engine/pipeline.py
 
 # Task 5 – Safety Audit Report
 # See task5_ai_safety_audit/red_team_report.md
@@ -102,10 +103,10 @@ python task4_multimodal_content_engine/pipeline.py --input your_audio.mp3
 
 ## 👤 Author
 
-**Hamza Shoaib**
- Artificial Intelligence
- The Islamia University of Bahawalpur (IUB)
-Batch (May 5 - Jun 5) 2026 | DecodeLabs Generative AI Internship
+**Hamza Shoaib**/
+ Artificial Intelligence/
+ The Islamia University of Bahawalpur (IUB)/
+Batch (May 5 - Jun 5) | DecodeLabs Generative AI Internship
 
 ---
 
