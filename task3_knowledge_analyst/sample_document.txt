@@ -1,0 +1,149 @@
+PROFESSIONAL SERVICES AGREEMENT
+
+Document ID: PSA-2024-0047
+Version: 1.2
+Date of Issue: March 15, 2024
+
+---
+
+SECTION 1: PARTIES AND DEFINITIONS
+
+1.1 This Professional Services Agreement ("Agreement") is entered into as of March 15, 2024, between:
+
+    SERVICE PROVIDER: NovaTech Solutions Pvt. Ltd., a company incorporated under the laws of India, having its registered office at 45 Tech Park, Bangalore, Karnataka 560001 ("Provider")
+
+    CLIENT: Meridian Enterprises LLC, a limited liability company organized under the laws of Delaware, USA, having its principal office at 200 Commerce Street, Wilmington, DE 19801 ("Client")
+
+1.2 Definitions:
+    - "Services" refers to AI-powered data analytics and software development services as described in Schedule A.
+    - "Deliverables" means all software, reports, models, and documentation produced under this Agreement.
+    - "Confidential Information" means any non-public information disclosed by either party.
+
+---
+
+SECTION 2: SCOPE OF SERVICES
+
+2.1 The Provider agrees to deliver the following services:
+    (a) Development of a custom machine learning pipeline for customer churn prediction.
+    (b) Integration of the pipeline with Client's existing CRM system (Salesforce).
+    (c) Monthly performance reports for a period of 12 months post-deployment.
+    (d) Staff training sessions (minimum 3 sessions) for Client's data team.
+
+2.2 All services shall be performed remotely unless otherwise agreed in writing.
+
+2.3 The Provider may engage qualified subcontractors with prior written approval from the Client. The Provider remains fully responsible for subcontractor performance.
+
+---
+
+SECTION 3: PROJECT TIMELINE AND MILESTONES
+
+3.1 Project Commencement Date: April 1, 2024
+3.2 Expected Completion Date: September 30, 2024
+
+3.3 Key Milestones:
+    - Milestone 1: Requirements gathering and data audit — April 30, 2024
+    - Milestone 2: ML model prototype (v0.1) — June 15, 2024
+    - Milestone 3: CRM integration complete — July 31, 2024
+    - Milestone 4: User Acceptance Testing (UAT) — August 31, 2024
+    - Milestone 5: Full deployment and handover — September 30, 2024
+
+3.4 Delays caused by Client's failure to provide required data or approvals shall not count against Provider's timeline obligations.
+
+---
+
+SECTION 4: PAYMENT TERMS
+
+4.1 Total Contract Value: USD 120,000
+
+4.2 Payment Schedule:
+    - 30% upfront upon signing: USD 36,000 (due April 1, 2024)
+    - 30% upon Milestone 3 completion: USD 36,000 (due August 1, 2024)
+    - 40% upon final delivery: USD 48,000 (due October 15, 2024)
+
+4.3 All invoices are payable within 14 days of issuance.
+
+4.4 Late payments will accrue interest at 1.5% per month on the outstanding balance.
+
+4.5 The Client may not withhold payment citing minor bugs or cosmetic issues that do not affect core functionality.
+
+---
+
+SECTION 5: INTELLECTUAL PROPERTY
+
+5.1 All Deliverables created specifically for the Client under this Agreement shall become the exclusive property of the Client upon receipt of full payment.
+
+5.2 The Provider retains ownership of all pre-existing tools, frameworks, and libraries ("Background IP") used in the development process.
+
+5.3 The Provider is granted a non-exclusive, royalty-free license to showcase the project as a portfolio reference (excluding confidential data), unless the Client objects in writing within 30 days of project completion.
+
+---
+
+SECTION 6: CONFIDENTIALITY
+
+6.1 Both parties agree to maintain strict confidentiality of all Confidential Information for a period of 3 years following the termination of this Agreement.
+
+6.2 Confidential Information may be disclosed only to employees or contractors who need to know such information and are bound by confidentiality obligations.
+
+6.3 The following are not considered Confidential Information:
+    (a) Information already in the public domain.
+    (b) Information independently developed without reference to Confidential Information.
+    (c) Information required to be disclosed by law or court order.
+
+---
+
+SECTION 7: RISK AND LIABILITY
+
+7.1 LIMITATION OF LIABILITY: In no event shall either party's total liability exceed the total fees paid under this Agreement in the 6 months preceding the claim.
+
+7.2 Neither party shall be liable for indirect, incidental, special, or consequential damages, including loss of revenue or data.
+
+7.3 RISK AREAS IDENTIFIED:
+    (a) Data Quality Risk: The accuracy of the ML model is dependent on the quality of historical data provided by the Client. Provider does not warrant specific model accuracy percentages.
+    (b) Integration Risk: Delays in CRM integration may occur due to Salesforce API limitations or third-party outages outside Provider's control.
+    (c) Regulatory Risk: The Client is solely responsible for ensuring that the use of AI-generated predictions complies with applicable laws, including GDPR and CCPA.
+    (d) Security Risk: The Client must ensure all data shared with Provider is anonymized or compliant with applicable data protection laws prior to transfer.
+
+---
+
+SECTION 8: TERMINATION
+
+8.1 Either party may terminate this Agreement with 30 days written notice.
+
+8.2 The Client may terminate immediately for cause if the Provider commits a material breach that remains uncured for 15 days after written notice.
+
+8.3 Upon termination, the Client shall pay for all work completed up to the termination date on a pro-rata basis.
+
+8.4 Sections 5, 6, and 7 shall survive termination of this Agreement.
+
+---
+
+SECTION 9: DISPUTE RESOLUTION
+
+9.1 The parties shall first attempt to resolve any dispute through good-faith negotiation for a period of 30 days.
+
+9.2 Unresolved disputes shall be submitted to binding arbitration under the rules of the International Chamber of Commerce (ICC), with arbitration seated in Singapore.
+
+9.3 The governing law of this Agreement is the law of the State of Delaware, USA.
+
+---
+
+SECTION 10: GENERAL PROVISIONS
+
+10.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior discussions.
+10.2 Amendments must be made in writing and signed by authorized representatives of both parties.
+10.3 If any provision is found unenforceable, the remaining provisions remain in full force.
+
+---
+
+SIGNATURES
+
+Signed on behalf of NovaTech Solutions Pvt. Ltd.:
+Name: Rohan Mehta | Title: CEO | Date: March 15, 2024
+
+Signed on behalf of Meridian Enterprises LLC:
+Name: Sarah J. Collins | Title: VP of Operations | Date: March 15, 2024
+
+---
+
+SCHEDULE A – DETAILED SCOPE
+(Attached separately as technical specifications document v2.3, dated March 10, 2024)

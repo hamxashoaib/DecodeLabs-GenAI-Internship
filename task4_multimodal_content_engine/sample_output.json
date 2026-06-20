@@ -1,0 +1,88 @@
+{
+  "pipeline_run": "20240615_143022",
+  "source": "demo",
+  "total_viral_segments": 5,
+  "viral_segments": [
+    {
+      "segment_id": 1,
+      "start_time": "00:28",
+      "end_time": "00:45",
+      "transcript_excerpt": "Here is what shocked me: a single uninterrupted 90-minute deep work session produces the same output as 4 hours of fragmented work. I tested this myself for an entire month.",
+      "viral_score": 9,
+      "viral_reason": "Counterintuitive statistic backed by personal experiment — highly shareable and immediately actionable.",
+      "reel_type": "Educational"
+    },
+    {
+      "segment_id": 2,
+      "start_time": "02:18",
+      "end_time": "02:35",
+      "transcript_excerpt": "I went from producing 3 deliverables a week to 11, just by restructuring my schedule around these three principles.",
+      "viral_score": 9,
+      "viral_reason": "Concrete transformation story with specific numbers creates instant credibility and aspiration.",
+      "reel_type": "Motivational"
+    },
+    {
+      "segment_id": 3,
+      "start_time": "01:02",
+      "end_time": "01:20",
+      "transcript_excerpt": "Every small decision you make — what to wear, what to eat, what email to answer first — drains the same mental battery as your big decisions.",
+      "viral_score": 8,
+      "viral_reason": "Reframes a common daily experience in a surprising and educational way — sparks self-reflection.",
+      "reel_type": "Educational"
+    },
+    {
+      "segment_id": 4,
+      "start_time": "01:20",
+      "end_time": "01:40",
+      "transcript_excerpt": "Top CEOs batch their decisions. They decide their week's meals, outfits, and small tasks all at once on Sunday.",
+      "viral_score": 8,
+      "viral_reason": "Aspirational CEO behavior that is immediately replicable — practical tip with authority association.",
+      "reel_type": "How-To"
+    },
+    {
+      "segment_id": 5,
+      "start_time": "02:15",
+      "end_time": "02:30",
+      "transcript_excerpt": "Protect your deep work time like it is the most important meeting of your life. Because it is.",
+      "viral_score": 8,
+      "viral_reason": "Short, quotable mic-drop line perfect for text overlays and save-worthy moments.",
+      "reel_type": "Inspirational"
+    }
+  ],
+  "content_assets": [
+    {
+      "segment_id": 1,
+      "start_time": "00:28",
+      "end_time": "00:45",
+      "original_text": "Here is what shocked me: a single uninterrupted 90-minute deep work session produces the same output as 4 hours of fragmented work.",
+      "viral_headline": "90 Minutes > 4 Hours (Science-Backed Proof)",
+      "on_screen_text": "90 MINS = 4 HOURS OF WORK???",
+      "instagram_caption": "Your 8-hour workday might be a lie. One focused 90-minute block destroys 4 hours of distracted grinding — and I have 30 days of data to prove it. Stop working more. Start working smarter.\n\n#ProductivityHacks #DeepWork #WorkSmart #Mindset #CareerTips",
+      "tiktok_caption": "I replaced 4 hours of work with 90 minutes 🤯 Here's exactly how:\n#DeepWork #ProductivityTok #WorkSmarter",
+      "twitter_hook": "One 90-minute deep work block = 4 hours of normal work. I tested this for 30 days. The results embarrassed my old self. Here's what I found:",
+      "broll_descriptions": [
+        "B-Roll 1: Close-up of a focused person typing intensely at a clean desk, phone face-down, no distractions. Soft morning light. Time-lapse style.",
+        "B-Roll 2: Split-screen comparison — left side: person in meetings, switching tabs, looking stressed (labeled '4 hours'); right side: same person focused at desk (labeled '90 min')",
+        "B-Roll 3: Simple animated graphic showing two timelines — a cluttered 4-hour block vs a clean 90-minute block with the same output checkmarks"
+      ],
+      "cta": "Save this before your next work session and try it tomorrow."
+    },
+    {
+      "segment_id": 2,
+      "start_time": "02:18",
+      "end_time": "02:35",
+      "original_text": "I went from producing 3 deliverables a week to 11, just by restructuring my schedule.",
+      "viral_headline": "How I 3x'd My Output Without Working More Hours",
+      "on_screen_text": "3 → 11 DELIVERABLES/WEEK",
+      "instagram_caption": "I didn't grind harder. I didn't work weekends. I didn't buy a productivity app. I just stopped scheduling my day like everyone else does — and went from 3 to 11 deliverables per week. The system isn't complicated. It's just counterintuitive.\n\n#Productivity #WorkSmart #OutputOverHours #CreatorEconomy #GrowthMindset",
+      "tiktok_caption": "3 deliverables → 11 per week. Same hours. Different system 📈\n#ProductivityTok #WorkLife #SmartWork",
+      "twitter_hook": "I 3.6x'd my weekly output without adding a single extra hour of work. It took restructuring 3 things. Thread on what changed:",
+      "broll_descriptions": [
+        "B-Roll 1: Satisfying checklist being checked off on a tablet — items going from 3 to many. Clean, minimal UI aesthetic.",
+        "B-Roll 2: Aerial time-lapse of a city morning — person walking confidently into an office building, looking purposeful",
+        "B-Roll 3: Before/after weekly calendar comparison — messy random blocks vs clean structured time blocks with color coding"
+      ],
+      "cta": "Follow for the full 3-principle breakdown this week."
+    }
+  ]
+}
