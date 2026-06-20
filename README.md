@@ -1,5 +1,5 @@
 # 🤖 Generative AI 
-Industrial Training Mission Kit/n
+Industrial Training Mission Kit/br
 **DecodeLabs | Batch 2026**
 
 This repository contains my completed project submissions for the **Generative AI Industrial Training** program by DecodeLabs. Four out of five tasks have been implemented, covering prompt engineering, document intelligence (RAG), multimodal pipelines, and AI safety auditing.
